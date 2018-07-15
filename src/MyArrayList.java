@@ -128,7 +128,7 @@ public class MyArrayList<E> implements Iterable<E> {
 
         @Override
         public boolean hasNext() {
-            return current<MyArrayList.this.size;
+            return current < size;
         }
 
         @Override
@@ -136,7 +136,7 @@ public class MyArrayList<E> implements Iterable<E> {
             if(!hasNext()){
                 throw new NoSuchElementException();
             }
-            return MyArrayList.this.get(current++);
+            return get(current++);
         }
 
         @Override
