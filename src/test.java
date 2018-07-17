@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 public class test {
@@ -9,6 +10,11 @@ public class test {
         ArrayList<Integer> list=new ArrayList<>();
         CopyOnWriteArrayList<Integer> list1=new CopyOnWriteArrayList<>();
         ArrayList<Integer> list_copy=new ArrayList<>();
+        LinkedList<String> linkedList = new LinkedList<>();
+        linkedList.clear();
+        linkedList.isEmpty();
+
+
         for(int i=1;i<=5;i++) {
             list.add(i);
             list1.add(i);
