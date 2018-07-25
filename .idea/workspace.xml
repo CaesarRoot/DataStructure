@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb11f880-4cf7-4d1b-8ce7-566bd03ed011" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AvlTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AvlTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +14,110 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1998#1999#0" expanded="true" />
+                <element signature="e#2039#2040#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvlTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AvlTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4529">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
+              <folding>
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestForInhert.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestForInhert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#2782#2783#0" expanded="true" />
+                <element signature="e#2809#2810#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,8 +133,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MyArrayList.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/AvlTree.java" />
+        <option value="$PROJECT_DIR$/src/TestForInhert.java" />
       </list>
     </option>
   </component>
@@ -46,37 +151,15 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="92" />
-    <option name="y" value="41" />
-    <option name="width" value="1536" />
-    <option name="height" value="972" />
+    <option name="width" value="838" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -101,17 +184,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testForLinkedList">
+  <component name="RunManager" selected="Application.TestForInhert">
+    <configuration name="TestForInhert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestForInhert" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="testForAvlTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testForAvlTree" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="testForLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testForLinkedList" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="testForTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testForTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="testForTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testForTree" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -154,13 +251,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.testForLinkedList" />
+      <item itemvalue="Application.testForTree" />
+      <item itemvalue="Application.testForTree (1)" />
+      <item itemvalue="Application.testForAvlTree" />
+      <item itemvalue="Application.TestForInhert" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestForInhert" />
+        <item itemvalue="Application.testForAvlTree" />
+        <item itemvalue="Application.testForTree" />
+        <item itemvalue="Application.testForTree (1)" />
         <item itemvalue="Application.testForLinkedList" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +279,8 @@
       <updated>1531485586539</updated>
       <workItem from="1531485589893" duration="1370000" />
       <workItem from="1531537608697" duration="44266000" />
+      <workItem from="1531789580821" duration="18783000" />
+      <workItem from="1532481661484" duration="4153000" />
     </task>
     <task id="LOCAL-00001" summary="test for connection">
       <created>1531486455898</created>
@@ -212,14 +317,29 @@
       <option name="project" value="LOCAL" />
       <updated>1531622475581</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MyLinkedList的简单实现">
+      <created>1531789676122</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531789676122</updated>
+    </task>
+    <task id="LOCAL-00007" summary="二叉搜索树的简单实现">
+      <created>1532081876040</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532081876040</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45636000" />
+    <option name="totallyTimeSpent" value="68572000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="971" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -231,18 +351,18 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29405034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29333332" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35427135" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31074482" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24977458" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993135" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39897436" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -252,31 +372,31 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29435897" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24977458" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35427135" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29333332" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.35825893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31074482" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24977458" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993135" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39897436" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -290,11 +410,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test for connection" />
     <MESSAGE value="MyArrayList的简单实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyArrayList的简单实现" />
+    <MESSAGE value="MyLinkedList的简单实现" />
+    <MESSAGE value="二叉搜索树的简单实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树的简单实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -302,6 +424,81 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
+            <element signature="e#2039#2040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="137" column="13" lean-forward="true" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#2782#2783#0" expanded="true" />
+            <element signature="e#2809#2810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AvlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/Java/test.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -323,10 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="172" column="22" selection-start-line="172" selection-start-column="22" selection-end-line="172" selection-end-column="22" />
-          <folding>
-            <element signature="e#6486#6487#0" expanded="true" />
-            <element signature="e#6532#6533#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -372,10 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
           <caret line="378" column="6" lean-forward="true" selection-start-line="378" selection-start-column="6" selection-end-line="378" selection-end-column="6" />
-          <folding>
-            <element signature="e#13877#13878#0" expanded="true" />
-            <element signature="e#13945#13946#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,10 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="430" column="19" selection-start-line="430" selection-start-column="19" selection-end-line="430" selection-end-column="19" />
-          <folding>
-            <element signature="e#3728#3729#0" expanded="true" />
-            <element signature="e#3767#3768#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,21 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="913" column="13" lean-forward="true" selection-start-line="913" selection-start-column="13" selection-end-line="913" selection-end-column="13" />
-          <folding>
-            <element signature="e#6326#6327#0" expanded="true" />
-            <element signature="e#6394#6395#0" expanded="true" />
-            <element signature="e#9099#9100#0" expanded="true" />
-            <element signature="e#9136#9137#0" expanded="true" />
-            <element signature="e#15688#15689#0" expanded="true" />
-            <element signature="e#15733#15734#0" expanded="true" />
-            <element signature="e#18851#18881#1" expanded="true" />
-            <element signature="e#31581#31582#0" expanded="true" />
-            <element signature="e#31618#31619#0" expanded="true" />
-            <element signature="e#31918#31919#0" expanded="true" />
-            <element signature="e#31950#31951#0" expanded="true" />
-            <element signature="e#32345#32346#0" expanded="true" />
-            <element signature="e#32390#32391#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -430,10 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
-          <folding>
-            <element signature="e#2303#2304#0" expanded="true" />
-            <element signature="e#2337#2338#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -444,46 +610,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/jdk.compiler/com/sun/source/tree/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#2313#2314#0" expanded="true" />
-            <element signature="e#2340#2341#0" expanded="true" />
-            <element signature="e#2548#2549#0" expanded="true" />
-            <element signature="e#2584#2585#0" expanded="true" />
-            <element signature="e#1435#1436#0" expanded="true" />
-            <element signature="e#1469#1470#0" expanded="true" />
-            <element signature="e#1564#1565#0" expanded="true" />
-            <element signature="e#1603#1604#0" expanded="true" />
-            <element signature="e#1790#1791#0" expanded="true" />
-            <element signature="e#1817#1818#0" expanded="true" />
-            <element signature="e#1901#1902#0" expanded="true" />
-            <element signature="e#1928#1929#0" expanded="true" />
-            <element signature="e#1873#1874#0" expanded="true" />
-            <element signature="e#1912#1913#0" expanded="true" />
-            <element signature="e#2056#2057#0" expanded="true" />
-            <element signature="e#2095#2096#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="399">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/api/tree/InstanceOfTreeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/api/tree/BinaryTreeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/api/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="231">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -492,31 +650,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3836">
-          <caret line="137" column="13" lean-forward="true" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        <state relative-caret-position="2520">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
             <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
-            <element signature="e#1622#1652#0" expanded="true" />
-            <element signature="e#1946#1976#0" expanded="true" />
-            <element signature="e#2477#2507#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
             <element signature="e#2782#2783#0" expanded="true" />
             <element signature="e#2809#2810#0" expanded="true" />
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#2958#2959#0" expanded="true" />
-            <element signature="e#3088#3089#0" expanded="true" />
-            <element signature="e#3122#3123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AvlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4529">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
+            <element signature="e#2039#2040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestForInhert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
           </folding>
         </state>
       </provider>
